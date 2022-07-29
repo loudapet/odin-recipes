@@ -1,0 +1,24 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    color: whitesmoke;
+}
+
+.homepage {
+    text-transform: uppercase;
+}
+
+h1.homepage {
+    font-size: 60px;
+}
+
+img {
+    width: 400px;
+    height: auto;
+    border-radius: 8px;
+}
+
+ul li {
+    background-color: lightsalmon;
+    color: black;
+}
